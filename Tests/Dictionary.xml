@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLanguageDictionary xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<LanguageDictionary>
+		<CultureName>ru-RU</CultureName>
+		<Words>
+			<WordPair>
+				<WordKey>cat</WordKey>
+				<WordValue>кошка</WordValue>
+			</WordPair>
+			<WordPair>
+				<WordKey>dolphin</WordKey>
+				<WordValue>дельфин</WordValue>
+			</WordPair>
+			<WordPair>
+				<WordKey>dog</WordKey>
+				<WordValue>собака</WordValue>
+			</WordPair>
+		</Words>
+	</LanguageDictionary>
+	<LanguageDictionary>
+		<CultureName>en-US</CultureName>
+		<Words>
+			<WordPair>
+				<WordKey>snake</WordKey>
+				<WordValue>snake</WordValue>
+			</WordPair>
+			<WordPair>
+				<WordKey>dog</WordKey>
+				<WordValue>dog</WordValue>
+			</WordPair>
+		</Words>
+	</LanguageDictionary>
+	<LanguageDictionary>
+		<CultureName>it-IT</CultureName>
+		<Words>
+			<WordPair>
+				<WordKey>dolphin</WordKey>
+				<WordValue>delfino</WordValue>
+			</WordPair>
+		</Words>
+	</LanguageDictionary>
+</ArrayOfLanguageDictionary>

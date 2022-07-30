@@ -1,0 +1,6 @@
+C:\Users\Пользователь\source\repos\Localization\Localization\obj\Debug\Localization.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Localization\pub\Localization\Localization.dll
+C:\Users\Пользователь\source\repos\Localization\pub\Localization\Localization.pdb
+C:\Users\Пользователь\source\repos\Localization\Localization\obj\Debug\Localization.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\Localization\Localization\obj\Debug\Localization.dll
+C:\Users\Пользователь\source\repos\Localization\Localization\obj\Debug\Localization.pdb

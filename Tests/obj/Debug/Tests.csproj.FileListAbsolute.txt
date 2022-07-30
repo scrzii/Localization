@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\Localization\pub\Tests\Dictionary.xml
+C:\Users\Пользователь\source\repos\Localization\pub\Tests\Dictionary.json
+C:\Users\Пользователь\source\repos\Localization\pub\Tests\Tests.exe.config
+C:\Users\Пользователь\source\repos\Localization\pub\Tests\Tests.exe
+C:\Users\Пользователь\source\repos\Localization\pub\Tests\Tests.pdb
+C:\Users\Пользователь\source\repos\Localization\Tests\obj\Debug\Tests.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\source\repos\Localization\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Localization\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\Localization\Tests\obj\Debug\Tests.exe
+C:\Users\Пользователь\source\repos\Localization\Tests\obj\Debug\Tests.pdb

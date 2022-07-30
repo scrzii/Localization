@@ -1,0 +1,25 @@
+﻿[
+    {
+        "cultureName": "en-US",
+        "words": {
+            "dog": "dog",
+            "dolphin": "dolphin",
+            "cat": "cat"
+        }
+    },
+    {
+        "cultureName": "ru-RU",
+        "words": {
+            "cat": "кошка",
+            "snake": "змея"
+        }
+    },
+    {
+        "cultureName": "it-IT",
+        "words": {
+            "dog": "cane",
+            "cat": "gatto",
+            "snake": "serpente"
+        }
+    }
+]
